@@ -1,0 +1,21 @@
+﻿sale_id;sale_date;product;customer_name;region;quantity;unit_price;amount
+1;2024/01/03;Headphones;John Mokoena;Gauteng;2;350;700
+2;2024/01/05;Laptop Bag;Sarah Nkosi;Western Cape;1;450;450
+3;2024/01/06;Keyboard;Thabo Dlamini;Gauteng;3;200;600
+4;2024/01/10;Mouse;Emily Jacobs;KwaZulu-Natal;2;150;300
+5;2024/01/12;Monitor;Peter Mahlangu;Gauteng;1;2200;2200
+6;2024/01/15;Headphones;Nomsa Khumalo;Free State;1;350;350
+7;2024/01/18;Laptop Bag;David Sithole;Gauteng;2;450;900
+8;2024/01/20;Keyboard;Anna van Wyk;Western Cape;1;200;200
+9;2024/01/22;Monitor;John Mokoena;Gauteng;1;2200;2200
+10;2024/01/25;Mouse;Thabo Dlamini;KwaZulu-Natal;3;150;450
+11;2024/02/01;Headphones;Emily Jacobs;Gauteng;1;350;350
+12;2024/02/03;Keyboard;Peter Mahlangu;Western Cape;2;200;400
+13;2024/02/05;Monitor;Sarah Nkosi;Gauteng;1;2200;2200
+14;2024/02/08;Mouse;Nomsa Khumalo;KwaZulu-Natal;1;150;150
+15;2024/02/10;Laptop Bag;David Sithole;Free State;1;450;450
+16;2024/02/12;Headphones;Anna van Wyk;Gauteng;2;350;700
+17;2024/02/15;Monitor;John Mokoena;Western Cape;1;2200;2200
+18;2024/02/18;Keyboard;Emily Jacobs;Gauteng;3;200;600
+19;2024/02/20;Mouse;Peter Mahlangu;KwaZulu-Natal;2;150;300
+20;2024/02/22;Laptop Bag;Thabo Dlamini;Gauteng;1;450;450
